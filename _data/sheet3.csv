@@ -1,5 +1,4 @@
-objectid,title,date,date-is-approximate?,creator,recipient,description,item_information,subject,location,latitude,longitude,filename,type
-,format
+objectid,title,date,date-is-approximate?,creator,recipient,description,item_information,subject,location,latitude,longitude,filename,type,format
 192301,生蕃傳說集封面,1923,,鹽月桃甫,,排灣族木雕圖騰,插圖,原住民; 佐山融吉；排灣族,Taiwan ,,,192301.jpg,Image,image/jpeg
 192302,生蕃傳說集封背,1923,yes,鹽月桃甫,,排灣族木雕圖騰,插圖,原住民; 佐山融吉；排灣族,Taiwan ,25.03059174,121.5098809,192302.jpg,Image,image/jpeg
 192303,生蕃傳說集內頁插圖,1923,yes,鹽月桃甫,,水墨線條,插圖,原住民; 佐山融吉,Taiwan ,,,192303.jpg,Image,image/jpeg
